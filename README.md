@@ -3,5 +3,3 @@
 ## Install Node.js
 
 ## Setup git repo
-
-## Init npm, create package.json
